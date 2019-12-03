@@ -71,9 +71,9 @@ Let us consider n to be 12 and hence the case of placing amazes in a 12x12 chess
 
 ![](theoutput.gif)
 
-
-The entire output printed onto the terminal console can be found in the **_Outputfile.txt_** file.
-The solution positon combinations alone can be found in the **_Solutions.txt__** file.
+* The corresponding python code can be found in the **_amaze.py_** file.
+* The entire output printed onto the terminal console can be found in the **_Outputfile.txt_** file.
+* The solution positon combinations alone can be found in the **_Solutions.txt__** file.
 
 ## Complexity Analysis
 
