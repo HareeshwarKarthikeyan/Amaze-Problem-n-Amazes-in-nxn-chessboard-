@@ -1,7 +1,7 @@
 # The Amaze Chess Piece Problem
   The Amaze Chess Piece Problem requires the player to place n number of amaze chess pieces in a nxn chessboard so that no two amazes attack each other.
 
-Just in case if you ain't familiar with the terms of chess, let's just run a quick run through the terms that we wil be using in this scenario. 
+Just in case if you ain't familiar with the terms of chess, let's just have a quick run through the terms that we wil be using in this scenario. 
 ## Chessboard
 A chessboard is simply a square board consisting of nxn smaller evenly sized squares each of which can accomodate a chess piece.
 Consider a sample 8x8 chessboard as shown below.
@@ -73,7 +73,7 @@ Let us consider n to be 12 and hence the case of placing amazes in a 12x12 chess
 
 * The corresponding python code can be found in the **_amaze.py_** file.
 * The entire output printed onto the terminal console can be found in the **_Outputfile.txt_** file.
-* The solution positon combinations alone can be found in the **_Solutions.txt__** file.
+* The solution position combinations alone can be found in the **_Solutions.txt__** file.
 
 ## Complexity Analysis
 
