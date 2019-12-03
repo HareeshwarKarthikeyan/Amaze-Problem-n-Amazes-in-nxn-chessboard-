@@ -67,6 +67,14 @@ Let us consider n to be 12 and hence the case of placing amazes in a 12x12 chess
 ## Can you guess how many such possible solutions are there?
 # A whopping __156__ different solutions!
 
+# Output
+
+![](theoutput.gif)
+
+
+The entire output printed onto the terminal console can be found in the **_Outputfile.txt_** file.
+The solution positon combinations alone can be found in the **_Solutions.txt__** file.
+
 ## Complexity Analysis
 
 * __Space Complexity : O(n)__
@@ -77,3 +85,7 @@ Let us consider n to be 12 and hence the case of placing amazes in a 12x12 chess
   * ![](Analysis2.png)
   * ![](Analysis3.png)
   * ![](Analysis4.png)
+
+## That's all folks!
+
+# Gracias!
