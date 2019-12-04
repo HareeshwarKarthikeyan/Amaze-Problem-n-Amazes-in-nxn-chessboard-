@@ -14,16 +14,22 @@ The queen chess piece has the power to move any number of steps either forward o
 
 ![](queen.png)
 
+Image Credits : @shivanibaskar
+
 
 ## The Knight
 The knight chess piece has the power to move in a 'L' shape with two steps in either of the four directions and then take one step to the left or right. The knight cannot make any diagonal steps. The knight can also, attack any rival chess piece that lies in its path.
 
 ![](knight.png)
 
+Image Credits : @shivanibaskar
+
 ## The Amaze
 An 'Amaze' is a chess piece that has the combined powers of both a queen and a knight in the game of chess.
 
 ![](amaze.jpg)
+
+Image Credits : @shivanibaskar
 
 
 ## Placing Amazes in a 12x12 Chessboard
@@ -63,6 +69,9 @@ Let us consider n to be 12 and hence the case of placing amazes in a 12x12 chess
 ![](Recursion&#32;8.jpg)
 
 ![](Recursion&#32;9.jpg)
+
+Image Credits : @shivanibaskar
+
 
 ## Can you guess how many such possible solutions are there?
 # A whopping __156__ different solutions!
