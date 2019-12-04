@@ -71,6 +71,7 @@ Let us consider n to be 12 and hence the case of placing amazes in a 12x12 chess
 ![](Recursion&#32;9.jpg)
 
 Image Credits : @shivanibaskar
+https://github.com/shivanibaskar
 
 
 ## Can you guess how many such possible solutions are there?
